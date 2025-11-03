@@ -153,7 +153,8 @@
     "selenium-standalone": "^6.24.0",
     "ua-parser-js": "^0.7.31",
     "rimraf": "^5.0.0",
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "webpack-dev-server": "^4.15.1"
   },
   "availableLanguages": [
     "en-US",

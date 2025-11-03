@@ -152,7 +152,8 @@
     "redis-mock": "^0.47.0",
     "selenium-standalone": "^6.24.0",
     "ua-parser-js": "^0.7.31",
-    "rimraf": "^5.0.0"
+    "rimraf": "^5.0.0",
+    "cross-env": "^7.0.3"
   },
   "availableLanguages": [
     "en-US",
